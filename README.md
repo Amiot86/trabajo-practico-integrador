@@ -18,7 +18,9 @@ En el informe que se puede encontrar en el [link](https://docs.google.com/docume
 Para ejecutar el programa se necesita clonar el repositorio:
 
 `git clone https://github.com/Amiot86/trabajo-practico-integrador.git`
+
 Luego navegar hasta la carpeta donde se clonó y ejecutar:
 
 `& C:/Python/Python312/python.exe c:/Users/arama/OneDrive/Escritorio/trabajo-practico-integrador/integrador.py`
+
 Tambien se puede ejecutar utilizando el botón play (Ejecutar archivo de Python) de Visual Studio Code.
